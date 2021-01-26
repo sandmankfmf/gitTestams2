@@ -6,5 +6,11 @@
 * Čia kažkas ta yr
 
 ```java
-System.out.println("Laba diena");
+public static void main(String[] args) {
+
+		System.out.println("Hello, World");
+
+	}
+
+}
 ```
