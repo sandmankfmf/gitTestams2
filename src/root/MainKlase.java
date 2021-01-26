@@ -6,6 +6,11 @@ public class MainKlase {
 		System.out.println("Hello World!");
 		System.out.println("Hello World!");
 		System.out.println("Hello World!");
+
+		int i = 56;
+
+		System.out.println(i > 50 ? "daugiau" : "maziau");
+
 	}
 
 }
